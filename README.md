@@ -41,7 +41,7 @@ The dashboard can be accessed through the ESP32-CAM's local IP address and provi
 
 ## Preview
 
-Dashboard preview coming soon.
+![VisionNode Dashboard](visionnode-dashboard.png)
 
 ## Author
 
